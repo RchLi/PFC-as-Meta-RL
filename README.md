@@ -1,0 +1,2 @@
+# About
+Implement the meta RL algorithm proposed in [Prefrontal cortex as a meta-reinforcement learning system](https://www.nature.com/articles/s41593-018-0147-8) and test it on simple bandit problems.
