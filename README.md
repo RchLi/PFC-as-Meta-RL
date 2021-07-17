@@ -8,6 +8,7 @@ suggested in [Learn to reinforcement learn](https://arxiv.org/abs/1611.05763)
 ## Result
 The action sequence generate by the trained LSTM.
 ![Action sequence](./assets/actions.png)
+
 Model's performance compared to several standard algorithms.
 ![Performance](./assets/performance.png)
 
